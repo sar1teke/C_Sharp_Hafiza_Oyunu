@@ -1,0 +1,12 @@
+C:\Users\srtk\source\repos\Hafiza_Oyunu\Hafiza_Oyunu\bin\Debug\Hafiza_Oyunu.exe.config
+C:\Users\srtk\source\repos\Hafiza_Oyunu\Hafiza_Oyunu\bin\Debug\Hafiza_Oyunu.exe
+C:\Users\srtk\source\repos\Hafiza_Oyunu\Hafiza_Oyunu\bin\Debug\Hafiza_Oyunu.pdb
+C:\Users\srtk\source\repos\Hafiza_Oyunu\Hafiza_Oyunu\obj\Debug\Hafiza_Oyunu.csproj.AssemblyReference.cache
+C:\Users\srtk\source\repos\Hafiza_Oyunu\Hafiza_Oyunu\obj\Debug\Hafiza_Oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\srtk\source\repos\Hafiza_Oyunu\Hafiza_Oyunu\obj\Debug\Hafiza_Oyunu.Form1.resources
+C:\Users\srtk\source\repos\Hafiza_Oyunu\Hafiza_Oyunu\obj\Debug\Hafiza_Oyunu.Properties.Resources.resources
+C:\Users\srtk\source\repos\Hafiza_Oyunu\Hafiza_Oyunu\obj\Debug\Hafiza_Oyunu.csproj.GenerateResource.cache
+C:\Users\srtk\source\repos\Hafiza_Oyunu\Hafiza_Oyunu\obj\Debug\Hafiza_Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\srtk\source\repos\Hafiza_Oyunu\Hafiza_Oyunu\obj\Debug\Hafiza_Oyunu.exe
+C:\Users\srtk\source\repos\Hafiza_Oyunu\Hafiza_Oyunu\obj\Debug\Hafiza_Oyunu.pdb
+C:\Users\srtk\source\repos\Hafiza_Oyunu\Hafiza_Oyunu\obj\Debug\Hafiza_Oyunu.Form2.resources
